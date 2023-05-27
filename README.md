@@ -2,13 +2,13 @@
 
 # Video Walkthrough
 
-User Story
+# User Story
 
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 
-Acceptance Criteria
+# Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for text
@@ -25,12 +25,7 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
-Mock-Up
-
-The following image shows a mock-up of the generated SVG given the following input entered by the user: SVG for the text, white for the text color, circle from the list of shapes, and green for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
-
-Image showing a green circle with white text that reads "SVG.".
-Getting Started
+# Getting Started
 
 This Challenge combines many of the skills covered so far. In addition to the User Story and Acceptance Criteria, we’ve provided some guidelines to help you get started.
 
