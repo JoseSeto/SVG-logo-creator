@@ -1,7 +1,7 @@
 # SVG-logo-creator
 
 # Video Walkthrough
-
+https://drive.google.com/file/d/1QRdy1_UxFBP-8GvylXPfM5kBL4IcSKdi/view?usp=share_link
 # User Story
 
 AS a freelance web developer
