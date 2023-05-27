@@ -1,6 +1,6 @@
 # SVG-logo-creator
 
-#Video Walkthrough
+# Video Walkthrough
 
 User Story
 
