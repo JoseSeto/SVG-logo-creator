@@ -24,8 +24,8 @@ function writeToFile(filename, answers){
   }
 
   string += `<text x="150" y="130" text-anchor="middle" font-size="40" fill="${answers.textColor}">${answers.text}</text>`;
-  string += "<g>";
-  string += "</svg>";
+  string += "</g>";
+  
 
   fs.writeFile(filename, string, (err) => {
     err ? console.log(err) : console.log("Generated logo.svg")
@@ -73,7 +73,7 @@ function shapeQuestions () {
         promptUser();
       } else {
         // Calling write file function to generate SVG file
-        writeToFile("logo.svg", answers);
+        writeToFile("Generated_logo.svg", answers);
       }
     });
 }
